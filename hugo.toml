@@ -1,4 +1,4 @@
-baseurl = "https://github.com/ssah-blr/sre"
+baseurl = "https://sanjaysahu.dev"
 title = "Site Reliability and Platform Engineering"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Lost in Space :("
-  omit_categories = false
+  omit_categories = true
 
   # leancloud storage for page view counter
   page_view_counter = false
@@ -134,6 +134,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.additional_menus]]
   title =  "ABOUT"
   href =  "about/"
+#  [[params.additional_menus]]
+#  title =  "ALL POSTS"
+#  href =  "post/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
