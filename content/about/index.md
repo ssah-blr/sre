@@ -16,4 +16,4 @@ Through this blog, he shares real-world experiences, architectural patterns, and
 
 Outside of work, he enjoys writing technical articles, exploring emerging technologies, watching movies, and traveling.
 
-You can connect with him on GitHub and LinkedIn, or reach out via [email](mailto:ssah.cg9@gmail.com).
+You can connect with him on [GitHub](https://github.com/ssah-blr) and [LinkedIn](https://www.linkedin.com/in/your-profile), or reach out via [email](mailto:ssah.cg9@gmail.com).

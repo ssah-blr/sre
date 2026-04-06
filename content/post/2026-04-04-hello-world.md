@@ -9,5 +9,4 @@ URL: "/2026/04/04/hello-world/"
 
 > “Yeah It's on. ”
 
-
-## Hello World!
+# Hello World!
