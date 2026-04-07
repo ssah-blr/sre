@@ -119,6 +119,13 @@ GitOps brings clarity and control to modern systems:
 - Changes are auditable and traceable  
 - Teams gain confidence in deployments  
 
+## GitOps vs Traditional CI/CD: Detailed Comparison
+
+<div style="text-align:center;">
+  <img src="/img/gitops-vs-traditional.png" alt="Comparison" style="max-width:90%; border-radius:8px;">
+  <p><em>Detailed Comparison</em></p>
+</div>
+
 ---
 
 ## GitOps Use Cases
